@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1dabb2357fcd1854f4ff17a582a2225/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1dabb2357fcd1854f4ff17a582a2225/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1dabb2357fcd1854f4ff17a582a2225/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:18:9-39
+	android:roundIcon
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:17:9-40
+activity#com.umedia.android.MainActivity
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+MERGED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1dabb2357fcd1854f4ff17a582a2225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1dabb2357fcd1854f4ff17a582a2225/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		ADDED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+		INJECTED from /Users/wei.li/Documents/androidtest/gitinstraction/UText/umedia/src/main/AndroidManifest.xml
+activity#com.kabouzeid.appthemehelper.common.ATHToolbarActivity
+ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-91
+	android:name
+		ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-88
+activity#com.kabouzeid.appthemehelper.ATHActivity
+ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-77
+	android:name
+		ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:19-74
+activity#com.kabouzeid.appthemehelper.common.ATHActionBarActivity
+ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-93
+	android:name
+		ADDED from [:app-theme-helper:library] /Users/wei.li/Documents/androidtest/gitinstraction/UText/app-theme-helper/library/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:19-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:preference-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/preference-v7-25.4.0.aar/9e697c5c85dd8d8b6e49be828361a490/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/f081a3429c17c8bd19cecbf7134b8b92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e2b1c6d6dc3b31c38aa1df0af010f774/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/07a0d6d61cbf1f386e983e813b050025/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/6694e3197337390148cd68360dca6843/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/79024142f92b505eb92e9cfb11bd70bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/d0869edfb09f3d5485eb94d1f7ee6fab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/be488b5dfebe949c1af3a744c8485bda/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/d639f44b473a4fa94adb9503860ed279/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/53c371c3fc13bfa95ee16d8e4ce35c17/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/1b0ff5bf9fafdf4bbe3aac652c74f386/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/d431c418d7138ce7752398213c6c7d5e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /Users/wei.li/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e8965ceb71451b126793ce85c247cf52/AndroidManifest.xml:27:13-51
