@@ -1,6 +1,9 @@
 package com.umedia.android;
 
 import android.app.Application;
+import android.os.Build;
+
+//import com.kabouzeid.appthemehelper.ThemeStore;
 
 
 public class App extends Application {
@@ -25,13 +28,13 @@ public class App extends Application {
 //        }
 //        LeakCanary.install(this);
         // default theme
-        if (!ThemeStore.isConfigured(this, 1)) {
-            ThemeStore.editTheme(this)
-                    .activityTheme(R.style.Theme_Phonograph_Light)
-                    .primaryColorRes(R.color.md_indigo_500)
-                    .accentColorRes(R.color.md_pink_A400)
-                    .commit();
-        }
+//        if (!ThemeStore.isConfigured(this, 1)) {
+//            ThemeStore.editTheme(this)
+//                    .activityTheme(R.style.Theme_Phonograph_Light)
+//                    .primaryColorRes(R.color.md_indigo_500)
+//                    .accentColorRes(R.color.md_pink_A400)
+//                    .commit();
+//        }
 
         // Set up Crashlytics, disabled for debug builds
 //        Crashlytics crashlyticsKit = new Crashlytics.Builder()
@@ -45,7 +48,7 @@ public class App extends Application {
 
         // Set up dynamic shortcuts
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N_MR1) {
-            new DynamicShortcutManager(this).initDynamicShortcuts();
+//            new DynamicShortcutManager(this).initDynamicShortcuts();
         }
 
         // automatically restores purchases
