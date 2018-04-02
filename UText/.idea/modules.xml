@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UText.iml" filepath="$PROJECT_DIR$/UText.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-theme-helper/app-theme-helper.iml" filepath="$PROJECT_DIR$/app-theme-helper/app-theme-helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-theme-helper/library/library.iml" filepath="$PROJECT_DIR$/app-theme-helper/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umedia/umedia.iml" filepath="$PROJECT_DIR$/umedia/umedia.iml" />
     </modules>
   </component>
 </project>
